@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Xiaojie (Jasmine) Zhang / Site Title"
+title                    : "Xiaojie(Jasmine) ZHANG"
 title_separator          : "-"
 name                     : &name "Xiaojie(Jasmine) Zhang"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,12 +24,11 @@ repository               : "Luckyjasmin/XiaojieZhangPage.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Xiaojie(Jasmine) ZHANG"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
+  bio              : "Ph.D. Student in Economics"
+  location         : "Singapore"
+  employer         : "Nanyang Technological University"
   email            : "xiaojie001@e.ntu.edu.sg" 
 
   # Repositories and software development
@@ -42,7 +41,6 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -51,7 +49,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : # https://www.linkedin.com/in/xiaojie-zhang-3ab522247?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
